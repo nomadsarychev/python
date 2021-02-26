@@ -13,10 +13,4 @@ if ord(a) < ord(b):
     print(f"Случайный символ {chr(random.randint(ord(a), ord(b)))}")
 else:
     print(f"Случайный символ {chr(random.randint(ord(b), ord(a)))}")
-# random.uniform( < Начало >, < Конец >) вещественное
-# число
-# random.randint( < Начало >, < Конец >) целое
-# print(ord("a"))
-# print(chr(97))
 
-# print(random.randint(1, 3))*
